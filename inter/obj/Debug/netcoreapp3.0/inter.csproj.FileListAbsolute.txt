@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.exe
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.deps.json
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.runtimeconfig.json
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.dll
+C:\Users\Lucas\source\repos\inter\inter\bin\Debug\netcoreapp3.0\inter.pdb
+C:\Users\Lucas\source\repos\inter\inter\obj\Debug\netcoreapp3.0\inter.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\inter\inter\obj\Debug\netcoreapp3.0\inter.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\inter\inter\obj\Debug\netcoreapp3.0\inter.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\inter\inter\obj\Debug\netcoreapp3.0\inter.dll
+C:\Users\Lucas\source\repos\inter\inter\obj\Debug\netcoreapp3.0\inter.pdb
